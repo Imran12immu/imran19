@@ -17,33 +17,9 @@
 ## Screenshots:
 ### Home page:
 User have to fill this form.
-![Screenshot (99)](https://github.com/Avi8010/Placement_Predictor/assets/124759114/61855759-9501-4d6e-977f-72fcb0951737)
-
-### Result Page:
-User redirected to the result page after submitting form.
-![Screenshot (101)](https://github.com/Avi8010/Placement_Predictor/assets/124759114/efebf129-17f4-40d5-9829-7cefee5ed14c)
+![[Screenshot (99)](https://github.com/Avi8010/Placement_Predictor/assets/124759114/61855759-9501-4d6e-977f-72fcb0951737](https://github.com/smartinternz02/SBSPS-Challenge-10095-1691067161/blob/main/website%20screenshot/Screenshot%202023-09-04%20210438.png))
 
 
 
-## Website Link:
-
-https://placement-prediction-18gm.onrender.com/
 
 
-## Usage:
-Steps:
-1. Clone Project
-```
-git clone https://github.com/akshaykoganur/placement_prediction.git
-```
-2. Installing dependancies
-```
-pip install -r requirements.txt
-```
-3. Run
-```
-python app.py
-```
-## Contributors
-- <a href="https://github.com/akshaykoganur">Akshay Koganur</a>
-- <a href="https://github.com/Avi8010">Avinash Maharnavar</a>
